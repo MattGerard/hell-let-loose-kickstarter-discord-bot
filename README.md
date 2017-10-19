@@ -16,5 +16,6 @@ Running this bot from your local machine: (after adding your discord bot token t
 
 1. install node.js
 2. cd into the project directory
-3. run node index.js from the cmd prompt
-4. enjoy
+3. npm install
+4. run node index.js from the cmd prompt
+5. enjoy

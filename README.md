@@ -3,6 +3,8 @@ Hell Let Loose Discord bot to track the kickstarter campaign
 
 Created a simple bot to keep my community updated on the progress of the campaign.
 
+![Alt text](https://i.imgur.com/vEm2ZJ3.png "Bot Running")
+
 # install
 
 !!!!!important!!!!

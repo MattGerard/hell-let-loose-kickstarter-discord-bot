@@ -12,7 +12,7 @@ Created a simple bot to keep my community updated on the progress of the campaig
 You must create your own bot through the discord API, create the bot, add it to your channel and setup a channel like "hll-kickstarter".
 Give the bot permissions to ONLY read that channel, send messages, and also see it's message history. You can name the channel whatever you'd like, you will just need to adjust the name in the code where commented.
 
-Running this bot from your local machine:
+Running this bot from your local machine: (after adding your discord bot token to the index file where it says to add it)
 
 1. install node.js
 2. cd into the project directory
